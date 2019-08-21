@@ -400,7 +400,8 @@ MonoBehaviour:
   Rigidbody: {fileID: 1721477062}
   Player: {fileID: 1721477063}
   moveStrength: 50
-  jumpStrength: 100
+  maxRunSpeed: 6
+  jumpStrength: 15
 --- !u!114 &1721477065
 MonoBehaviour:
   m_ObjectHideFlags: 0

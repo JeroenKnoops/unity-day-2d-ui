@@ -13,8 +13,6 @@ public class Movement : MonoBehaviour
     public float maxRunSpeed = 1;
     public float jumpStrength = 1;
 
-    public bool isEric = false;
-
     private bool canJump = false;
 
     // Start is called before the first frame update
