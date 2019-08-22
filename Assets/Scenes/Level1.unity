@@ -6295,8 +6295,8 @@ Tilemap:
       m_ColliderType: 1
   - first: {x: 5, y: -5, z: 0}
     second:
-      m_TileIndex: 0
-      m_TileSpriteIndex: 0
+      m_TileIndex: 13
+      m_TileSpriteIndex: 13
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -8914,7 +8914,7 @@ Tilemap:
       m_ColliderType: 1
   m_AnimatedTiles: {}
   m_TileAssetArray:
-  - m_RefCount: 5
+  - m_RefCount: 4
     m_Data: {fileID: 11400000, guid: 95af7b7e1d11b4ffa92432b4aa8e7fc1, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 46afb042cfe054dfcbda54f4bc7ac505, type: 2}
@@ -8939,9 +8939,9 @@ Tilemap:
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 5f6ca76d074c64dd999ce3682b7f8b3b, type: 2}
   - m_RefCount: 1
-    m_Data: {fileID: 11400000, guid: a5ffe62fb6547438aa11b80ff3bd22fe, type: 2}
-  - m_RefCount: 1
-    m_Data: {fileID: 11400000, guid: e2ae87eb5464a47b080ee8d412341445, type: 2}
+    m_Data: {fileID: 11400000, guid: 2b059b287f0dc413ab1d86562f9b87a3, type: 2}
+  - m_RefCount: 2
+    m_Data: {fileID: 11400000, guid: 8f042ad69666047d1b8179c877e5e4cc, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 11dee366cecca40d59aaa91e6f344ebf, type: 2}
   - m_RefCount: 414
@@ -8953,7 +8953,7 @@ Tilemap:
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 885f5d7ac29b748b2b32e1ae31216e9b, type: 2}
   m_TileSpriteArray:
-  - m_RefCount: 5
+  - m_RefCount: 4
     m_Data: {fileID: -7407000345935943055, guid: 3fa27b1c60af24933a599f87dedfcd31,
       type: 3}
   - m_RefCount: 1
@@ -8990,10 +8990,9 @@ Tilemap:
     m_Data: {fileID: -7375612139286493863, guid: 3fa27b1c60af24933a599f87dedfcd31,
       type: 3}
   - m_RefCount: 1
-    m_Data: {fileID: -4630874196909415997, guid: 3fa27b1c60af24933a599f87dedfcd31,
-      type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: -278097357025465889, guid: 3fa27b1c60af24933a599f87dedfcd31,
+    m_Data: {fileID: 396406743273660766, guid: 3fa27b1c60af24933a599f87dedfcd31, type: 3}
+  - m_RefCount: 2
+    m_Data: {fileID: 2020619437311600985, guid: 3fa27b1c60af24933a599f87dedfcd31,
       type: 3}
   - m_RefCount: 1
     m_Data: {fileID: -188333896924823842, guid: 3fa27b1c60af24933a599f87dedfcd31,
