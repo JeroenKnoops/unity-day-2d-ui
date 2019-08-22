@@ -7,4 +7,9 @@ public class MenuItem : MonoBehaviour
 {
     public Text ButtonText;
 
+    public void MenuButtonClicked()
+    {
+
+    }
+
 }
