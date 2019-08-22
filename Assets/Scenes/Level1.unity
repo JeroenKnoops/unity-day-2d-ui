@@ -346,7 +346,7 @@ GameObject:
   - component: {fileID: 696955787}
   - component: {fileID: 696955790}
   m_Layer: 5
-  m_Name: Close menu
+  m_Name: Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -466,7 +466,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2420e76a0980b4324ab48026e3104be4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ButtonText: {fileID: 0}
+  ButtonText: {fileID: 1619982504}
 --- !u!1 &810535843
 GameObject:
   m_ObjectHideFlags: 0
